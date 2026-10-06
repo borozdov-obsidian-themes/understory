@@ -35,10 +35,14 @@ headlines, pill shapes throughout, and one electric-lime green for every action.
 
 ## Installation
 
-**From the community directory:** Settings → Appearance → Themes → Manage, search for
-**Borozdov Understory**, then **Install and use**.
+**From the community directory, as a variant:** this theme ships inside **Borozdov
+Trellis**. Install Borozdov Trellis under Settings → Appearance → Themes → Manage, then
+the [Style Settings](https://github.com/mgmeyers/obsidian-style-settings) plugin, and
+choose **Understory** under Style Settings → Borozdov Trellis → Variant. The variant
+brings this theme's palette, type and corners; its own layout, and its embedded font if it
+has one, come with the full theme below.
 
-**By hand:** download `manifest.json` and `theme.css` from the [latest
+**The full theme, by hand:** download `manifest.json` and `theme.css` from the [latest
 release](https://github.com/borozdov-obsidian-themes/understory/releases/latest) into
 `<vault>/.obsidian/themes/Borozdov Understory/`, then choose Borozdov Understory under
 Settings → Appearance → Themes.
@@ -52,5 +56,4 @@ MIT — see [LICENSE](LICENSE).
 **По-русски.** Тема из коллекции Borozdov. Два лика: светлый «Mossbed» — белёсые грядки под
 стеклом, и тёмный «Nightbloom» — та же теплица после того, как погас свет. Жирные сжатые
 заголовки, кнопки-пилюли и один электрический лайм для любого действия. Шрифты не встроены.
-Устанавливается из каталога: Настройки → Оформление → Темы → Настроить → Borozdov Understory
-→ Установить и применить.
+В каталоге тема живёт вариантом Borozdov Trellis: установите Borozdov Trellis и плагин Style Settings, затем выберите Understory в Style Settings → Borozdov Trellis → Variant. Целиком, со своей вёрсткой, тема ставится вручную из последнего релиза репозитория.
